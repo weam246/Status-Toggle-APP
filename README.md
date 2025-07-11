@@ -1,5 +1,7 @@
 # User Status Web App
 
+http://localhost/status_toggle_web_project/
+
 This is a simple PHP-MySQL web application that allows users to submit their name and age through a form. All submitted records are saved in a MySQL database and displayed in a table. Each row includes a toggle button to change the status between 0 and 1 dynamically.
 
 ## Features
